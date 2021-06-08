@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path fill="#B98E00" d="M62,52c0,2.2-1.775,4.295-3.945,4.657l-4.109,0.686C51.775,57.705,48.2,58,46,58H18
+	c-2.2,0-5.775-0.295-7.945-0.657l-4.109-0.686C3.775,56.295,2,54.2,2,52v-6h60V52z"/>
+<path fill="#E9CE07" d="M2,26h60v26H2V26z"/>
+<path fill="#99A8AE" d="M2,10h60v2H2V10z"/>
+<path fill="#4E5E67" d="M2,12h60v6H2V12z"/>
+<path fill="#E6EBEF" d="M14,22v23c0,0.55,0.45,1,1,1h34c0.55,0,1-0.45,1-1V22H14z"/>
+<path fill="#4E5E67" d="M59,22H5c-2.2,0-3,0.8-3,3v1h60v-1C62,22.8,61.2,22,59,22z"/>
+<path fill="#B98E00" d="M24,46h2v6h-2V46z M38,46h2v6h-2V46z"/>
+<path fill="#0FB4D4" d="M4,32h8v8H4V32z M16,32h6v8h-6V32z M27,32h4v8h-4V32z M33,32h4v8h-4V32z M42,32h6v8h-6V32z M52,32h8v8h-8V32
+	z"/>
+<path fill="#018BC9" d="M42,40h4l-0.758-3.029C45.109,36.438,44.549,36,44,36h-2V40z M22,36h-2c-0.549,0-1.109,0.438-1.242,0.971
+	L18,40h4V36z M12,36h-2c-0.549,0-1.109,0.438-1.242,0.971L8,40h4V36z M52,40h4l-0.758-3.029C55.109,36.438,54.549,36,54,36h-2V40z"
+	/>
+<path fill="#F59E01" d="M54,50h4v2h-4V50z"/>
+<path fill="#FFFFFF" d="M58,50h2v2h-2V50z"/>
+<path fill="#F59E01" d="M6,50h4v2H6V50z"/>
+<path fill="#FFFFFF" d="M4,50h2v2H4V50z"/>
+<circle fill="#99A8AE" cx="10" cy="6" r="4"/>
+<circle fill="#4E5E67" cx="10" cy="6" r="3"/>
+<circle fill="#99A8AE" cx="10" cy="6" r="1"/>
+<circle fill="#99A8AE" cx="22" cy="6" r="4"/>
+<circle fill="#4E5E67" cx="22" cy="6" r="3"/>
+<circle fill="#99A8AE" cx="22" cy="6" r="1"/>
+<path fill="#4E5E67" d="M14,7h4v7h-4V7z"/>
+<path fill="#CFD8DD" d="M20,3h-8c-1.1,0-2,0.9-2,2v2c0,1.1,0.9,2,2,2h8c1.1,0,2-0.9,2-2V5C22,3.9,21.1,3,20,3z"/>
+<path fill="#99A8AE" d="M42,15h8v5h-8V15z M12,15h8v5h-8V15z"/>
+<path fill="#CFD8DD" d="M19,11h-6c-1.1,0-2,0.9-2,2v2c0,1.1,0.9,2,2,2h6c1.1,0,2-0.9,2-2v-2C21,11.9,20.1,11,19,11z"/>
+<circle fill="#99A8AE" cx="40" cy="6" r="4"/>
+<circle fill="#4E5E67" cx="40" cy="6" r="3"/>
+<circle fill="#99A8AE" cx="40" cy="6" r="1"/>
+<circle fill="#99A8AE" cx="52" cy="6" r="4"/>
+<circle fill="#4E5E67" cx="52" cy="6" r="3"/>
+<circle fill="#99A8AE" cx="52" cy="6" r="1"/>
+<path fill="#4E5E67" d="M44,7h4v5h-4V7z"/>
+<path fill="#CFD8DD" d="M50,3h-8c-1.1,0-2,0.9-2,2v2c0,1.1,0.9,2,2,2h8c1.1,0,2-0.9,2-2V5C52,3.9,51.1,3,50,3z"/>
+<path fill="#4E5E67" d="M41,20h10v2H41V20z M11,20h10v2H11V20z"/>
+<path fill="#CFD8DD" d="M24,46h2V31h12v15h2V29H24V46z M49,11h-6c-1.1,0-2,0.9-2,2v2c0,1.1,0.9,2,2,2h6c1.1,0,2-0.9,2-2v-2
+	C51,11.9,50.1,11,49,11z"/>
+<polygon opacity="0.5" fill="#FFFFFF" points="12,32 4,40 8.118,40 12,36.118 "/>
+<polygon opacity="0.5" fill="#FFFFFF" points="60,32 52,40 56.118,40 60,36.118 "/>
+<polygon opacity="0.5" fill="#FFFFFF" points="31,32 27,36 27,40 31,36 "/>
+<polygon opacity="0.5" fill="#FFFFFF" points="37,33 33,37 33,39 37,35 "/>
+<polygon opacity="0.5" fill="#FFFFFF" points="47.984,32 41.984,38 41.984,40 47.984,34 "/>
+<polygon opacity="0.5" fill="#FFFFFF" points="22,34 16,40 18.118,40 22,36.118 "/>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path fill="#302C3B" d="M62,15.98l-60-12V6.02l60,12V15.98z"/>
+<path fill="#006DAE" d="M61.154,56H2.846c1.551,3.521,5.075,6,9.154,6h40C56.079,62,59.604,59.521,61.154,56z M2,51v1
+	c0,0.686,0.07,1.354,0.203,2h59.594C61.932,53.342,62,52.672,62,52v-1H2z"/>
+<path fill="#E6EBEF" d="M2.846,56h58.309c0.281-0.636,0.5-1.305,0.644-2H2.203C2.346,54.695,2.564,55.364,2.846,56z M52,19H12
+	C6.5,19,2,23.5,2,29v22h60V29C62,23.5,57.5,19,52,19z"/>
+<path fill="#0FB4D4" d="M56,25H8c-2.2,0-4,1.8-4,4v20h56V29C60,26.8,58.2,25,56,25z"/>
+<path fill="#E6EBEF" d="M14,20h6v30h-6V20z M44,20h6v30h-6V20z M30,20h4v30h-4V20z"/>
+<circle fill="#6E8189" cx="17" cy="5" r="3"/>
+<circle fill="#6E8189" cx="23" cy="6" r="3"/>
+<circle fill="#6E8189" cx="41" cy="10" r="3"/>
+<circle fill="#6E8189" cx="47" cy="11" r="3"/>
+<path fill="#CFD8DD" d="M40.734,10.764l6,1.2c1.259,0.252,1.795-1.676,0.531-1.929l-6-1.2C40.007,8.583,39.471,10.511,40.734,10.764
+	z M16.734,5.964l6,1.2c1.259,0.252,1.795-1.676,0.531-1.93l-6-1.199C16.006,3.784,15.471,5.711,16.734,5.964z"/>
+<path fill="#4E5E67" d="M49.607,16.561l-36-7.199l0.785-3.922l36,7.199L49.607,16.561z"/>
+<path fill="#6E8189" d="M36,17l-2-2V5h-4v10l-2,2h-3v2h14v-2H36z"/>
+<circle fill="#302C3B" cx="32" cy="7" r="1"/>
+<path fill="#014D87" d="M53.951,60H10.048c-1.999,0-3.875-0.496-5.491-1.355C6.391,60.697,9.047,62,12,62h40
+	c2.953,0,5.611-1.305,7.443-3.357C57.752,59.539,55.865,60.006,53.951,60z M16,51h2v3h-2V51z M46,51h2v3h-2V51z M16,56h32v2H16V56z"
+	/>
+<path fill="#BEC3CF" d="M16,23h2v28h-2V23z M46,23h2v28h-2V23z M16,54h2v2h-2V54z M46,54h2v2h-2V54z"/>
+<path fill="#006DAE" d="M4.027,23h55.945c-1.83-2.421-4.722-4-7.973-4H12C8.75,19,5.857,20.579,4.027,23z"/>
+<path fill="#014D87" d="M16,21h32v2H16V21z"/>
+<polygon opacity="0.5" fill="#FFFFFF" points="59.99,31 50,40.989 50.011,49 50.931,49 59.99,39.92 "/>
+<polygon opacity="0.5" fill="#FFFFFF" points="44,25.941 34,35.941 34,48.06 44,38.06 "/>
+<polygon opacity="0.5" fill="#FFFFFF" points="30,25.566 20,35.566 20,39.685 30,29.685 "/>
+<polygon opacity="0.5" fill="#FFFFFF" points="30,39.001 20,49 26.119,49 30,45.119 "/>
+<polygon opacity="0.5" fill="#FFFFFF" points="14,29 4,39 4,46.118 14,36.118 "/>
+</svg>

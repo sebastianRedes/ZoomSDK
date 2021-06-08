@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path fill="#6E8189" d="M2,58h60v2H2V58z"/>
+<path fill="#BEC3CF" d="M5,60h4v2H5V60z M15,60h4v2h-4V60z M25,60h4v2h-4V60z M35,60h4v2h-4V60z M45,60h4v2h-4V60z M55,60h4v2h-4V60
+	z"/>
+<circle fill="#99A8AE" cx="55" cy="53" r="5"/>
+<circle fill="#4E5E67" cx="55" cy="53" r="3"/>
+<circle fill="#99A8AE" cx="41" cy="53" r="5"/>
+<circle fill="#4E5E67" cx="41" cy="53" r="3"/>
+<circle fill="#99A8AE" cx="23" cy="53" r="5"/>
+<circle fill="#4E5E67" cx="23" cy="53" r="3"/>
+<path fill="#302C3B" d="M36,48v4h9l2,2h2l2-2h9v-4H36z"/>
+<circle fill="#99A8AE" cx="9" cy="53" r="5"/>
+<circle fill="#4E5E67" cx="9" cy="53" r="3"/>
+<path fill="#302C3B" d="M4,47v5h9l2,2h2l2-2h9v-5H4z"/>
+<path fill="#E6EBEF" d="M2,19h60v31H2V19z"/>
+<path fill="#6E8189" d="M2,47h60v3H2V47z"/>
+<path fill="#529320" d="M2,35h60v2H2V35z M2,21h60v12H2V21z"/>
+<path fill="#297124" d="M17,23H7c-0.55,0-1,0.45-1,1v23h12V24C18,23.45,17.55,23,17,23z"/>
+<path fill="#0FB4D4" d="M44,23h-8c-0.55,0-1,0.45-1,1v6c0,0.55,0.45,1,1,1h8c0.55,0,1-0.45,1-1v-6C45,23.45,44.55,23,44,23z M57,23
+	h-8c-0.55,0-1,0.45-1,1v6c0,0.55,0.45,1,1,1h8c0.55,0,1-0.45,1-1v-6C58,23.45,57.55,23,57,23z M31,23h-8c-0.55,0-1,0.45-1,1v6
+	c0,0.55,0.45,1,1,1h8c0.55,0,1-0.45,1-1v-6C32,23.45,31.55,23,31,23z"/>
+<circle fill="#302C3B" cx="41" cy="53" r="1"/>
+<circle fill="#302C3B" cx="55" cy="53" r="1"/>
+<path fill="#0FB4D4" d="M15,25H9c-0.55,0-1,0.45-1,1v6c0,0.55,0.45,1,1,1h6c0.55,0,1-0.45,1-1v-6C16,25.45,15.55,25,15,25z"/>
+<path fill="#99A8AE" d="M60,12H4c-1.1,0-2,0.9-2,2v5h60v-5C62,12.9,61.1,12,60,12z"/>
+<path fill="#6E8189" d="M54.5,41c-0.275,0-0.5,0.225-0.5,0.5v3c0,0.275,0.225,0.5,0.5,0.5h5c0.275,0,0.5-0.225,0.5-0.5v-3
+	c0-0.275-0.225-0.5-0.5-0.5H54.5z"/>
+<circle fill="#302C3B" cx="9" cy="53" r="1"/>
+<circle fill="#302C3B" cx="23" cy="53" r="1"/>
+<path fill="#E6EBEF" d="M15.5,35h-1c-0.275,0-0.5,0.225-0.5,0.5v1c0,0.275,0.225,0.5,0.5,0.5h1c0.275,0,0.5-0.225,0.5-0.5v-1
+	C16,35.225,15.775,35,15.5,35z"/>
+<path fill="#006DAE" d="M58,30v-3c-0.55,0-1.109,0.438-1.242,0.971L56,31h1C57.553,31,58,30.553,58,30z M45,30v-3
+	c-0.55,0-1.109,0.438-1.242,0.971L43,31h1C44.553,31,45,30.553,45,30z M32,30v-3c-0.55,0-1.109,0.438-1.242,0.971L30,31h1
+	C31.553,31,32,30.553,32,30z"/>
+<path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M57,23h-4l-5,3v4l10-6C58,23.45,57.55,23,57,23z"/>
+<path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M31,23h-3.6L22,26v4l10-6C32,23.45,31.55,23,31,23z"/>
+<path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M35,30c0,0.55,0.45,1,1,1h3l6-3.5V24L35,30z"/>
+<path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M8,32c0,0.55,0.45,1,1,1h3l4-3v-4L8,32z"/>
+</svg>
